@@ -88,6 +88,10 @@
     "bierner.markdown-preview-github-styles",
     "alefragnani.Bookmarks",
     "pnp.polacode",
-    "redhat.vscode-xml"
+    "redhat.vscode-xml",
+    "DavidAnson.vscode-markdownlint",
+    "formulahendry.code-runner",
+    "WakaTime.vscode-wakatime",
+    "pnp.polacode"
   ]
 }
